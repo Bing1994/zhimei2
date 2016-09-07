@@ -1,0 +1,137 @@
+@charset "UTF-8";
+.tabBox .hd{width: 18.75rem;height: 2.5rem;	background:#ccc;}
+.tabBox .hd ul{ overflow:hidden; padding: 0 2.475rem;}
+.tabBox .hd ul li{ float:left; margin:0 1.25rem;color:#515151;  }
+.tabBox .hd ul .on{color:#BA2636;border-bottom: 0.15rem solid #d7b359;  }
+.tabBox .hd ul a{ display:block;line-height: 2.35rem;font-size:0.9rem;color:#4a4a4a;}
+/*导航栏end*/
+.y-list{
+	background: #f2f2f2;
+}
+.y-list li{
+	width: 7.0rem;
+	float: left;
+}
+.one{
+	background: #fff;
+	margin:0.5rem 0.4rem;
+	border-radius: 0.2rem;
+}
+.y-list li:nth-child(odd){
+	margin-right: 1.5rem;
+	margin-left: 1.225rem;
+}
+.y-list .img{
+	width: 3.425rem;
+	height: 3.425rem;
+	margin:1.0rem 0 0 1.75rem;
+}
+.y-list p{
+	font-size: 0.7rem;
+	line-height: 0.875rem;
+	color:#4a4a4a;
+	text-align:center;
+	margin-top: 0.4rem;
+	height: 1.7rem;
+	overflow:hidden;
+	text-overflow:ellipsis; 
+}
+/*医院end*/
+.xm{
+	background: #fff;
+}
+.x-name{
+	width: 5.5rem;
+	background: #f5f5f5;
+}
+.x-name li{
+	text-align:left;
+}
+.x-name .tiao{
+	width: 0.15rem;
+	height: 2.1rem;
+	background:#d7b359;
+}
+.x-name a.on{
+	border-left:0.15rem solid  #d7b359;
+	background: #fff;
+}
+.x-name a{
+	display: block;
+	font-size:0.75rem;
+	color:#6d6d6d;
+	width: 4.25rem;
+	line-height: 2.1rem;
+	padding-left: 1.1rem;
+	float: right;
+}
+.xm-l dd{
+	margin-left: 1.0rem;
+	width: 11.275rem;
+	height: 2.1rem;
+	border-bottom:0.05rem solid #dadada;
+	line-height: 1.875rem;
+	font-size:0.75rem;
+	color:#9b9b9b;
+	text-align:left;
+}
+/*项目end*/
+.marp{
+	width: 100%;
+	background: #f2f2f2;
+	padding: 0.5rem 0.4rem;
+}
+.yyg-l{
+	width: 17.85rem;
+	background: #fff;
+	border-radius: 0.2rem;
+	display: inline-block;
+	padding-top: 1.0rem;
+	padding-bottom: 0.6rem;
+}
+.yyg-l img{
+	width: 3.1rem;
+	height: 3.0rem;
+	margin-bottom: 0.35rem;
+}
+.yyg-l dd{
+	width: 3.1rem;
+	font-size: 0.65rem;
+	color: #4A4A4A;
+	letter-spacing: 0px;
+	text-align: center;
+}
+.yyg-l dl:nth-child(2){
+	margin: 0 1.525rem;
+}
+.yyg-l dl:nth-child(1){
+	margin-left: 2.75rem;
+}
+.msg{
+	width: 17.85rem;
+	background: #fff;
+	border-radius: 0.2rem;
+	margin-top: 0.6rem;
+	padding: 0.75rem 0;
+}
+.msg h1{
+	margin-left: 0.75rem;
+}
+.msg h1 p{
+	line-height: 0.8rem;
+	font-size: 0.7rem;
+	color: #4A4A4A;
+	letter-spacing: 0px;
+}
+.msg img{
+	width: 0.8rem ;
+	margin-right: 0.3rem;
+}
+.sum p{
+	width: 14.45rem;
+	font-size: 0.65rem;
+	color: #4A4A4A;
+	letter-spacing: 0px;
+	line-height: 1.05rem;
+	margin-left: 1.85rem
+}

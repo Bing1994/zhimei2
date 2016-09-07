@@ -1,0 +1,49 @@
+/*底部*/
+footer{
+	width: 18.75rem;
+	height:3.225rem;
+	background-image: url(../img/f-b.png);
+	background-size: 18.75rem 3.225rem;
+	position:fixed;
+	bottom: -0.1rem;
+	padding:0 1.5rem;
+}
+footer ul{
+	position:fixed;
+	bottom: 0rem;
+	margin-bottom: 0.2rem;
+}
+footer li{
+	width: 1.5rem;
+	float: left;
+	margin: 0 auto;
+}
+footer li:nth-child(1){
+	margin-right: 2.025rem;
+}
+footer li:nth-child(2){
+	margin-right: 2.1rem;
+}
+
+footer li:nth-child(3) p{
+	margin-top: 0.925rem;
+	font-size: 0.6rem;
+}
+footer li:nth-child(3){
+	margin-right: 2.475rem;
+}
+footer li:nth-child(4){
+	margin-right: 2.1rem;
+}
+footer li img{
+	width: 1.05rem;
+	margin: 0 auto;
+	display: block;
+}
+footer li p{
+	font-size:0.5rem;
+	color:#6b6b6b;
+	letter-spacing:0px;
+	text-align:center;
+
+}
